@@ -3,8 +3,6 @@ package January;
 // Data: 29/01/2025
 //Leetcode 684. Redundant Connection.
 
-import java.util.*;
-
 public class RedundantConnection {
 
     // Union-Find class to handle union and find operations
