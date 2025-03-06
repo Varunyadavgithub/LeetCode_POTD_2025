@@ -1,7 +1,7 @@
 package March;
 
-// Data: 2/02/2025
-//Leetcode 1752. Check if Array Is Sorted and Rotated.
+// Data: 5/03/2025
+//Leetcode 2579. Count Total Number of Colored Cells.
 
 public class CountColoredCells {
     public static long coloredCells(int n) {
